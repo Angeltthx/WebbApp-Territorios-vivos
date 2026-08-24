@@ -1,2 +1,0 @@
-﻿import TV from './territorios-vivos-9.jsx'
-export default function App() { return <TV /> }
